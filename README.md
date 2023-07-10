@@ -3,7 +3,7 @@ This application provides user management service. User password and cookies are
 
 # Software Versions :
 - Java 8
-- Spring 2.7.13
+- Spring 2.7.14
 - MySQL 8
 - HTML 5
 - Bootstrap
